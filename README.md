@@ -1,4 +1,4 @@
-IN ENGLISH - first / IN POLISH - below
+IN ENGLISH - upper / IN POLISH - below
 
 ENG: DESCRIPTION OF THE "CLINMATCH"APPLICATION
 The "ClinMatch" application is an application for finding people who are suitable to take part in
