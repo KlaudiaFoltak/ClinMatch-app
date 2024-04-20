@@ -1,4 +1,4 @@
-IN ENGLISH: lines 3 - 60 / IN POLISH: lies 62 - 119
+IN ENGLISH - first / IN POLISH - below
 
 ENG: DESCRIPTION OF THE "CLINMATCH"APPLICATION
 The "ClinMatch" application is an application for finding people who are suitable to take part in
